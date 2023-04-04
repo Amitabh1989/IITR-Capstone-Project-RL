@@ -1,6 +1,6 @@
-# frozenlake_reinforcement_learning
+frozenlake_reinforcement_learning
 
-# Code Author : Amitabh Suman
+Code Author : Amitabh Suman
 
 =================================================================================
 README from https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
