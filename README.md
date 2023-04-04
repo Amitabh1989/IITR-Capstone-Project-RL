@@ -5,6 +5,8 @@ README from https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
 
 ![OpenAI_Logo svg](https://user-images.githubusercontent.com/12171805/229715773-d1411961-5b93-4c65-9beb-de79e8513705.png)
 
+Project for : ![IITR_new_logo_color b3fdd3ee](https://user-images.githubusercontent.com/12171805/229716086-c7f1ca1b-330c-462f-a03b-462561abb1fc.png)
+
 
 This environment is part of the Toy Text environments. Please read that page first for general information.
 
