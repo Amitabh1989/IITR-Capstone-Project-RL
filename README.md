@@ -1,7 +1,10 @@
-frozenlake_reinforcement_learning
+# OpenAI Gym : Frozenlake_reinforcement_learning (Q learning and Deep Q Learning)
 
-Code Author : Amitabh Suman
+# Code Author : Amitabh Suman
 README from https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
+
+![OpenAI_Logo svg](https://user-images.githubusercontent.com/12171805/229715773-d1411961-5b93-4c65-9beb-de79e8513705.png)
+
 
 This environment is part of the Toy Text environments. Please read that page first for general information.
 
