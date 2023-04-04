@@ -1,10 +1,7 @@
 frozenlake_reinforcement_learning
 
 Code Author : Amitabh Suman
-
-=================================================================================
 README from https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
-=================================================================================
 
 This environment is part of the Toy Text environments. Please read that page first for general information.
 
