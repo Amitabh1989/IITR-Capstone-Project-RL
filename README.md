@@ -3,16 +3,16 @@
 # Code Author : Amitabh Suman
 README from https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
 
-<img src="https://user-images.githubusercontent.com/12171805/229715773-d1411961-5b93-4c65-9beb-de79e8513705.png" width="600" height="250"> and <img src="https://user-images.githubusercontent.com/12171805/229716086-c7f1ca1b-330c-462f-a03b-462561abb1fc.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/12171805/229715773-d1411961-5b93-4c65-9beb-de79e8513705.png" width="400" height="250"> and <img src="https://user-images.githubusercontent.com/12171805/229716086-c7f1ca1b-330c-462f-a03b-462561abb1fc.png" width="250" height="250">
 
 
 This environment is part of the Toy Text environments. Please read that page first for general information.
 
-**Action Space**
+## **Action Space**
 
 Discrete(4)
 
-**Observation Space**
+## **Observation Space**
 
 Discrete(16)
 
@@ -22,7 +22,7 @@ gym.make("FrozenLake-v1")
 
 Frozen lake involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake. The agent may not always move in the intended direction due to the slippery nature of the frozen lake.
 
-**Action Space**
+## **Action Space**
 The agent takes a 1-element vector for actions. The action space is (dir), where dir decides direction to move in which can be:
 
 0: LEFT
@@ -33,7 +33,7 @@ The agent takes a 1-element vector for actions. The action space is (dir), where
 
 3: UP
 
-**Observation Space**
+## **Observation Space**
 The observation is a value representing the agent’s current position as current_row * nrows + current_col (where both the row and col start at 0). For example, the goal position in the 4x4 map can be calculated as follows: 3 * 4 + 3 = 15. The number of possible observations is dependent on the size of the map. For example, the 4x4 map has 16 possible observations.
 
 Rewards
@@ -45,7 +45,7 @@ Reach hole(H): 0
 
 Reach frozen(F): 0
 
-**Arguments**
+## **Arguments**
 gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=True)
 desc: Used to specify custom map for frozen lake. For example,
 
